@@ -1,0 +1,15 @@
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp7.0\DIO.Series.exe
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp7.0\DIO.Series.deps.json
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp7.0\DIO.Series.runtimeconfig.json
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp7.0\DIO.Series.dll
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp7.0\DIO.Series.pdb
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp7.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp7.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp7.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp7.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp7.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp7.0\DIO.Series.dll
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp7.0\refint\DIO.Series.dll
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp7.0\DIO.Series.pdb
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp7.0\DIO.Series.genruntimeconfig.cache
+C:\Users\Babingthon\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp7.0\ref\DIO.Series.dll
